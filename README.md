@@ -1,1 +1,1 @@
-# majed511
+worker: node bot.js
